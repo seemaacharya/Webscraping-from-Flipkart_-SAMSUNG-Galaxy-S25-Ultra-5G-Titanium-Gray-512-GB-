@@ -4,20 +4,27 @@
 
 This project scrapes customer reviews of the SAMSUNG Galaxy S25 Ultra 5G (Titanium Gray, 512 GB) from the Flipkart website.
 
+🔗 URL Scraped:
 
-✅ Data Extracted:
+url = "https://www.flipkart.com/samsung-galaxy-s25-ultra-5g-titanium-gray-512-gb/product-reviews/itm4edf9ee3c6c2d?pid=MOBH8K8U2FZXCP2R&lid=LSTMOBH8K8U2FZXCP2R0C4UGD&marketplace=FLIPKART"
 
-Customer Name
 
-Review Title
+✅ What This Project Does:
 
-Review Text
+The script extracts the following information from customer reviews:
 
-Rating
 
-Location
+👤 Name (Reviewer’s Name)
 
-Date (Year and Month)
+⭐ Rating (Out of 5)
+
+📝 Review Title
+
+💬 Review Content
+
+📍 Location (Where the reviewer is from)
+
+🗓️ Date (Year and Month of the review)
 
 
 📁 Output:
